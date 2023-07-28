@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    color: white;
+    background: black;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+header .click{
+    padding: 18px 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+header .push{
+    padding: 20px 20px;
+    border-radius: 10px;
+    border: 2px solid blue;
+}
